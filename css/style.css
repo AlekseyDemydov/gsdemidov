@@ -1,0 +1,97 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #d3d9da;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 850px;
+  background-color: white;
+  margin: 40px auto;
+}
+
+.main-content {
+  margin: 40px;
+}
+
+.about-me-profesion {
+  font-weight: 700;
+  font-size: 14px;
+  color: black;
+}
+
+.dot-word-projects {
+  font-weight: 500;
+  font-size: 15px;
+  color: black;
+}
+
+.about-me {
+}
+
+.my-projects {
+}
+
+.my-work-experience {
+}
+
+.education-section {
+}
+
+/* sidebar */
+
+.sidebar {
+  background-color: rgb(106, 106, 236);
+  width: 370px;
+  padding: 40px 0;
+}
+.word {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  margin-right: 5px;
+}
+.link {
+  color: orange;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.contacts,
+.tech-skils,
+.soft-skils {
+  margin: 50px 0 0 40px;
+  color: white;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  color: white;
+}
+
+.num {
+  padding: 0 0 0 17px;
+}
+
+.dot {
+  color: orange;
+}
+
+.dot-word {
+  color: white;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.name-company {
+  color: orange;
+}
